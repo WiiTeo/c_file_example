@@ -5,7 +5,8 @@
 /*
  *
  *
- * Programme fait lors de l'apprentisage du C sur openclassroom.com avec leur formation gratuite.
+ * (C) 2021 WiiTeo
+ * C File Example
  *
  *
  */
